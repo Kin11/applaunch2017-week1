@@ -2,6 +2,7 @@
 
 ## Week 1 Resources
 * Session 1: Basic HTML & CSS
+  * `live_demo`
   * `image_card`
 * Session 2: Bootstrap
   * `registration-form`
