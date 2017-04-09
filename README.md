@@ -5,6 +5,7 @@
   * `live_demo`
   * `image_card`
 * Session 2: Bootstrap
+  * `live_demo_2`
   * `registration-form`
   * `image_gallery`
 
