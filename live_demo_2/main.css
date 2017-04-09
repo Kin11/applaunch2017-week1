@@ -1,0 +1,9 @@
+
+/* Basically, it center the divison */
+/* Feel free to ignore this magic */
+/* It is just for presentation purposes */
+.center-everything {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+}
