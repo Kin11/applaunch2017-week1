@@ -4,6 +4,7 @@
 * Session 1: Basic HTML & CSS
   * `live_demo`
   * `image_card`
+  * `mini_project_1`
 * Session 2: Bootstrap
   * `live_demo_2`
   * `registration-form`
