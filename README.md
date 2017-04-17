@@ -4,11 +4,12 @@
 * Session 1: Basic HTML & CSS
   * `live_demo`
   * `image_card`
-  * `mini_project_1`
+  * `your_turn`
 * Session 2: Bootstrap
-  * `live_demo_2`
+  * `live_demo`
   * `registration-form`
   * `image_gallery`
+  * `your_turn`
 
 ## How to Download?
 * Click on the green button with the label `Clone or download` on the top right.
